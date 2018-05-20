@@ -4,7 +4,7 @@
 Exports of the 8th is a data visualisation project, built using Unity3D, with [A* Pathfinding Project](https://arongranberg.com/astar/).
 
 ## Disclaimer
-Due to the nature of this simulation, in particular with minor rounding errors when dividing County Residencies of women who have travelled, it should be assumed that there may be very minor discrepancies in the final number outputs and Counties of Origin, within a 1% range.
+Due to the nature of this simulation, in particular with minor rounding errors when dividing County Residencies of women who have travelled, it should be assumed that there may be very minor discrepancies in the final number outputs and Counties of Origin, within a 3% range.
 
 ## Third Party Assets
 Note that the source code included above does not contain licensed tools & third party assets which were used in the making of this project. The following assets are *not* provided:
